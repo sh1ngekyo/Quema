@@ -2,11 +2,10 @@
 
 namespace Quema.Game
 {
-    class Program
+    class Startup
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
     }
 }
