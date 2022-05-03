@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quema.Engine", "Quema.Engine\Quema.Engine.csproj", "{79946BF0-FAC9-4659-A950-2C41DAAB393E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quema.Game", "Quema.Game\Quema.Game.csproj", "{7FBF86BF-1BCE-4DD7-BEA6-067DCFE617EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79946BF0-FAC9-4659-A950-2C41DAAB393E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79946BF0-FAC9-4659-A950-2C41DAAB393E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79946BF0-FAC9-4659-A950-2C41DAAB393E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79946BF0-FAC9-4659-A950-2C41DAAB393E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FBF86BF-1BCE-4DD7-BEA6-067DCFE617EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBF86BF-1BCE-4DD7-BEA6-067DCFE617EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBF86BF-1BCE-4DD7-BEA6-067DCFE617EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBF86BF-1BCE-4DD7-BEA6-067DCFE617EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1EE2B9D-C2D5-44C3-A3A7-EA749C18C3E2}
+	EndGlobalSection
+EndGlobal
